@@ -10,9 +10,9 @@ The compilation was
  - with VFPV3 enabled
  - without FFmpeg due to a **Segmentation fault** (core dump) while calling libopenmpt
 
-For issue information: https://github.com/opencv/opencv/issues/10080
+For issue information: [opencv/opencv#10080](https://github.com/opencv/opencv/issues/10080)
 
-For binaries with TBB: https://github.com/yescallop/opencv4-java-armv7-binaries/tree/master/withtbb
+For binaries with TBB (2019 U2): [/withtbb](https://github.com/yescallop/opencv4-java-armv7-binaries/tree/master/withtbb)
 
 ## cmake params:
 ```

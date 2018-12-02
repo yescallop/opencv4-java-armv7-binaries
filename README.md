@@ -1,7 +1,7 @@
 # opencv4-java-armv7-binaries
 Pre-built OpenCV 4.0.0 Java wrapper on Raspberry Pi 3 Model B (armv7)
 
-Not tested on armv8 devices (like 3B+)
+Tested on a RPI3B+ (armv8), worked fine.
 
 Compiled on a Raspberry Pi 3 Model B on 2018-12-01
 
